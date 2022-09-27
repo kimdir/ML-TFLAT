@@ -1,0 +1,41 @@
+>>> Statistics for Model 140: accuracy Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.300000
+Harmonic Mean: 0.000000
+Median: 0.000000
+Mode: 0.000000
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.464095
+Variance: 0.215385
+Range: 0.000000
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.000000
+25th Percentile: 0.000000
+50th Percentile: 0.000000
+75th Percentile: 1.000000
+90th Percentile: 1.000000
+Interquartile Range: 1.000000
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.420000
+Mean Absolute Deviation from the Median: 0.300000
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : 1.546985
+Coefficient of Dispersion: inf
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: 0.872872
+Kurtosis: 1.761905

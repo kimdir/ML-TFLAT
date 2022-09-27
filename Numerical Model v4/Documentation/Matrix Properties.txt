@@ -1,0 +1,44 @@
+Design Parameters
+
+(1) Temperature Out             (degC)
+(2) Temperature In              (degC)
+(3) Outer Diameter              (m)
+(4) Inner Diameter              (m)
+(5) Pipe Length                 (m)
+(6) Flow Pressure               (MPa)
+(7) Flow Rate                   (m/s)
+
+Material Parameters
+
+(1) Thermal Diffusivity [Al]    (m^2/s)
+(2) Thermal Conductivity [Al]   (W/(mK))
+(3) Thermal Expansion [Al]      (m/(m*K))
+(4) Kinetic Viscosity [Water]   (m^2/s)
+(5) Elastic Modulus [Al]        (MPa)
+(6) Poisson's Ratio [Al]        (---)
+(7) Fracture Toughness [Al]     (MPa*m^(1/2))
+
+Temp Model
+(i) = Node Temperature          (degC)
+
+Stress Model
+(i,1) = Thermal Radial Stress   (MPa)
+(i,2) = Thermal Hoop Stress     (MPa)
+(i,3) = Thermal Axial Stress    (MPa)
+(i,4) = Pressure Radial Stress  (MPa)
+(i,5) = Pressure Hoop Stress    (MPa)
+(i,6) = von Mises Stress        (MPa)
+
+Damage Model
+(i,1) = Percent Damage          (%)
+(i,2) = has Failed (Boolean)    (T/F)
+(i,3) = SIF
+
+Strain Model
+(i,1) = Thermal Strain          (m/m)
+(i,2) = Pressure Strain         (m/m)
+(i,3) = Total Strain            (m/m)
+
+Settings
+(1) = Number of Nodes
+(2) = Number of cycles per data output

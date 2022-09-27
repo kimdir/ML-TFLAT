@@ -1,0 +1,41 @@
+>>> Statistics for Model 139: mse Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.284434
+Harmonic Mean: 0.280818
+Median: 0.292210
+Mode: 0.292210
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.030692
+Variance: 0.000942
+Range: -0.098839
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.242123
+25th Percentile: 0.261535
+50th Percentile: 0.292210
+75th Percentile: 0.304347
+90th Percentile: 0.320242
+Interquartile Range: 0.042813
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.024139
+Mean Absolute Deviation from the Median: 0.021858
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : 0.107906
+Coefficient of Dispersion: 0.074803
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: -0.828361
+Kurtosis: 3.190381

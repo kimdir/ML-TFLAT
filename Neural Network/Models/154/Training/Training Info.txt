@@ -1,0 +1,4 @@
+Training Date: Tue Jul 14 02:58:53 2020
+Training Random Seed: 5960436950017960960.000000
+Training Time: 17218.801330
+Training Failures: 18.000000/18.000000

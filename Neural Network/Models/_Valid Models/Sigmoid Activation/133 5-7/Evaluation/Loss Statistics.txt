@@ -1,0 +1,41 @@
+>>> Statistics for Model 146: mse Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.381674
+Harmonic Mean: 0.381673
+Median: 0.381418
+Mode: 0.381330
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.000699
+Variance: 0.000000
+Range: -0.001848
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.381178
+25th Percentile: 0.381330
+50th Percentile: 0.381472
+75th Percentile: 0.382445
+90th Percentile: 0.382665
+Interquartile Range: 0.001115
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.000554
+Mean Absolute Deviation from the Median: 0.000531
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : 0.001831
+Coefficient of Dispersion: 0.001392
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: -0.582115
+Kurtosis: 3.983201

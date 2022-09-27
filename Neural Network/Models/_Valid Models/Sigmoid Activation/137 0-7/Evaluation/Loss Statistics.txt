@@ -1,0 +1,41 @@
+>>> Statistics for Model 137: mse Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.524296
+Harmonic Mean: 0.524296
+Median: 0.524298
+Mode: 0.524297
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.000067
+Variance: 0.000000
+Range: -0.000322
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.524277
+25th Percentile: 0.524297
+50th Percentile: 0.524298
+75th Percentile: 0.524325
+90th Percentile: 0.524341
+Interquartile Range: 0.000028
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.000032
+Mean Absolute Deviation from the Median: 0.000031
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : 0.000128
+Coefficient of Dispersion: 0.000059
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: -3.368322
+Kurtosis: 15.785192

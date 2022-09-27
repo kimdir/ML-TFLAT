@@ -1,0 +1,35 @@
+To-Do:
+
+1) Complete functions for updating the options files 
+--> SetOptions.py
+
+2) Build read/write for options files 
+--> ReadOptions.py
+--> WriteOptions.py
+
+3) Build main process file 
+--> ThermalFatigueRNN.py
+
+4) Build save/load funtion for constructed models
+--> SaveNN.py --> Class Method (COMPLETE 3/9/2020)
+--> LoadNN.py --> Class Method (COMPLETE 3/9/2020)
+
+5) Complete training function with holdover and k-fold cross validation
+>>>>> REQUIRES (6) COMPLETED <<<<<
+--> TrainNN.py --> Class Method
+
+6) Build function for importing input/output data
+--> ReadIOData.py
+
+7) Build function to consolidate NumMod outputs
+--> ProcessNumericalModelData.py (COMPLETE 3/10/2020)
+
+8) Build function to evaluate neural net models
+--> EvaluateNN.py --> Class Method
+
+9) Build function to generate model predictions
+--> PredictNN.py --> Class Method
+
+10) Build shell to automate build, train, evaluate, and predict functions
+>>>>> REQUIRES (3) COMPLETED <<<<<
+--> NeuralNetworkShell.py

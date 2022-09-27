@@ -1,0 +1,41 @@
+>>> Statistics for Model 140: mse Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.369411
+Harmonic Mean: 0.341029
+Median: 0.428829
+Mode: 0.428829
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.091910
+Variance: 0.008447
+Range: -0.000117
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.230782
+25th Percentile: 0.230782
+50th Percentile: 0.428829
+75th Percentile: 0.428829
+90th Percentile: 0.428830
+Interquartile Range: 0.198047
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.083177
+Mean Absolute Deviation from the Median: 0.059419
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : 0.248802
+Coefficient of Dispersion: 0.138560
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: -0.872871
+Kurtosis: 1.761905

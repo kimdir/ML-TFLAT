@@ -1,0 +1,41 @@
+>>> Statistics for Model 141: mse Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.000004
+Harmonic Mean: 0.000004
+Median: 0.000004
+Mode: 0.000004
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.000000
+Variance: 0.000000
+Range: 0.000000
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.000004
+25th Percentile: 0.000004
+50th Percentile: 0.000004
+75th Percentile: 0.000004
+90th Percentile: 0.000004
+Interquartile Range: 0.000000
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.000000
+Mean Absolute Deviation from the Median: 0.000000
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : 0.000304
+Coefficient of Dispersion: 0.000138
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: 3.356618
+Kurtosis: 16.228796

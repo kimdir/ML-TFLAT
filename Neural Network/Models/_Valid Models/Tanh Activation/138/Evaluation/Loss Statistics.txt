@@ -1,0 +1,41 @@
+>>> Statistics for Model 138: mse Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.720672
+Harmonic Mean: 0.718765
+Median: 0.726296
+Mode: 0.726447
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.038141
+Variance: 0.001455
+Range: 0.086304
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.680813
+25th Percentile: 0.684781
+50th Percentile: 0.726370
+75th Percentile: 0.727574
+90th Percentile: 0.781534
+Interquartile Range: 0.042793
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.029301
+Mean Absolute Deviation from the Median: 0.028201
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : 0.052924
+Coefficient of Dispersion: 0.038829
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: 0.687424
+Kurtosis: 2.868256

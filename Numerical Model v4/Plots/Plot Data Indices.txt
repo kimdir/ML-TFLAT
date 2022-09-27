@@ -1,0 +1,4 @@
+Damage: 181
+Stress: 
+Strain:
+Temperature:

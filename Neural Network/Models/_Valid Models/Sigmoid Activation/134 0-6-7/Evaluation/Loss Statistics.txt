@@ -1,0 +1,41 @@
+>>> Statistics for Model 147: mse Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.345478
+Harmonic Mean: 0.345478
+Median: 0.345478
+Mode: 0.345478
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.000000
+Variance: 0.000000
+Range: 0.000000
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.345478
+25th Percentile: 0.345478
+50th Percentile: 0.345478
+75th Percentile: 0.345478
+90th Percentile: 0.345478
+Interquartile Range: 0.000000
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.000000
+Mean Absolute Deviation from the Median: 0.000000
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : 0.000000
+Coefficient of Dispersion: 0.000000
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: 4.129483
+Kurtosis: 18.052632

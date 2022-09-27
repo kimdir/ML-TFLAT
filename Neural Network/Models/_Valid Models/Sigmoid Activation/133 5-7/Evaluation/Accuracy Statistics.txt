@@ -1,0 +1,41 @@
+>>> Statistics for Model 146: accuracy Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.000000
+Harmonic Mean: 0.000000
+Median: 0.000000
+Mode: 0.000000
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.000000
+Variance: 0.000000
+Range: 0.000000
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.000000
+25th Percentile: 0.000000
+50th Percentile: 0.000000
+75th Percentile: 0.000000
+90th Percentile: 0.000000
+Interquartile Range: 0.000000
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.000000
+Mean Absolute Deviation from the Median: 0.000000
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : nan
+Coefficient of Dispersion: nan
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: nan
+Kurtosis: nan

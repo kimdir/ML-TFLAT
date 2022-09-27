@@ -1,0 +1,41 @@
+>>> Statistics for Model 139: accuracy Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.175000
+Harmonic Mean: 0.000000
+Median: 0.000000
+Mode: 0.000000
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.384808
+Variance: 0.148077
+Range: 1.000000
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.000000
+25th Percentile: 0.000000
+50th Percentile: 0.000000
+75th Percentile: 0.000000
+90th Percentile: 1.000000
+Interquartile Range: 0.000000
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.288750
+Mean Absolute Deviation from the Median: 0.175000
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : 2.198901
+Coefficient of Dispersion: inf
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: 1.710674
+Kurtosis: 3.926407

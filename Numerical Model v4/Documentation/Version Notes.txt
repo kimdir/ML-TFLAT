@@ -1,0 +1,13 @@
+v4 Update Notes:
+-Changed model to detect cracks initializing inside the pipe
+
+Updated Files:
+--CheckFailure
+   >Changed search to inside out
+   >Added SIF output to DamageModel
+--CalculateTemperatures
+--ThermalEquations
+  >Import Variables
+  >Temperature Assignments
+--InitializeModel
+  >Adjusted DamageModel to include column for SIF

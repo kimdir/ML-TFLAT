@@ -1,0 +1,6 @@
+Error Codes:
+
+BuildNN.py:
+0: No Error
+1: BuildID Error
+2: compileOptions Error

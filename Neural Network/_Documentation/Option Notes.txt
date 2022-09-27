@@ -1,0 +1,44 @@
+Build Options:
+
+Final Dense:
+[0][0]: Units         (Integer) -
+[0][1]: Input Shape   (Tuple)   -
+[0][2]: Activation    (String)  -
+[0][3]: Use Bias      (Boolean) -
+[0][4]: Kernel Init.  (String)  -
+[0][5]: Bias Init.    (String)  -
+
+Dense:
+[1][0]: Units         (Integer) -
+[1][1]: Input Shape   (Tuple)   -
+[1][2]: Activation    (String)  -
+[1][3]: Use Bias      (Boolean) -
+[1][4]: Kernel Init.  (String)  -
+[1][5]: Bias Init.    (String)  -
+
+LSTM:
+[2][0]: Units         (Integer) -
+[2][1]: Activation    (String)  -
+[2][2]: Use Bias      (Boolean) -
+[2][3]: Kernel Init.  (String)  -
+[2][4]: Recur. Init.  (String)  -
+[2][5]: Bias Init.    (String)  -
+
+TimeDistributed:
+[3][0]: Units         (Integer) -
+
+---------------------------------------
+
+Compiler Options
+
+[0]: Optimizer        (String)
+[1]: Loss Function    (String)
+[2]: Metrics          (String Array)
+[3]: Training Method  (String)  - 'k-fold' or 'holdover'
+
+---------------------------------------
+
+Data Options
+[0]: Length           (Integer)
+[1]: Sampling Rate    (Integer)
+[2]: Stride           (Integer)

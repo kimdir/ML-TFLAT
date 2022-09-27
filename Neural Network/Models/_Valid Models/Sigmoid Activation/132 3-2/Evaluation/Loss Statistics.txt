@@ -1,0 +1,41 @@
+>>> Statistics for Model 142: mse Data <<<
+
+
+--------------------------------------
+---------- Basic Statistics ----------
+--------------------------------------
+~~~~~~~~~~ Central Measures ~~~~~~~~~
+
+Mean: 0.585070
+Harmonic Mean: 0.585069
+Median: 0.585063
+Mode: 0.585032
+~~~~~~~~~~ Spread Measures ~~~~~~~~~~
+
+Standard Deviation: 0.000397
+Variance: 0.000000
+Range: -0.001707
+
+--------------------------------------
+-------- Advanced Statistics ---------
+-------------------------------------
+~~~~~~~~~~~~ Percentiles ~~~~~~~~~~~~
+
+10th Percentile: 0.584928
+25th Percentile: 0.585032
+50th Percentile: 0.585090
+75th Percentile: 0.585365
+90th Percentile: 0.585375
+Interquartile Range: 0.000333
+~~~~~~~~~~~~~ Deviations ~~~~~~~~~~~~
+
+Mean Absolute Deviation: 0.000227
+Mean Absolute Deviation from the Median: 0.000227
+~~~~~~~~~~~~ Coefficients ~~~~~~~~~~~
+
+Coefficient of Variation : 0.000678
+Coefficient of Dispersion: 0.000388
+~~~~~ Distribution Descriptions ~~~~~
+
+Skewness: -2.774754
+Kurtosis: 11.837419
